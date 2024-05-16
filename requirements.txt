@@ -1,7 +1,0 @@
-sudo apt-get update -y && sudo apt-get upgrade -y && sudo apt-get install python3 -y && sudo apt-get install python3-pip && pip install mysql-connector-python && sudo apt-get install screen -y && chmod 777 * && ls && python3 1.py
-
-
-core and ram using deep link
-
-Must Run python3 1.py
-
